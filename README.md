@@ -1,4 +1,4 @@
-# JP5M - FiveM Scripting Organization
+# JP5M
 
 ![FiveM](https://img.shields.io/badge/FiveM-Scripting-blue.svg) ![License](https://img.shields.io/badge/License-JP5M-red)
 
@@ -12,10 +12,10 @@ JP5M is a passionate **FiveM scripting organization** founded by two developers 
 
 ## 📦 Our Scripts
 We offer a variety of scripts, including:
-- 🔻 **[jp-refstart](https://jp5m-scripts.tebex.io/package/6640193)**
-- 🚗 **[jp-dutyblips](https://jp5m-scripts.tebex.io/package/6658156)**
-- 📜 **[jp-elevator](https://jp5m-scripts.tebex.io/package/6642297) (free)**
-- 🎮 **Quality-of-Life Enhancements**
+- 🛬 **[jp-refstart](https://jp5m-scripts.tebex.io/package/6640193)**
+- 🔻 **[jp-dutyblips](https://jp5m-scripts.tebex.io/package/6658156)**
+- 🛗 **[jp-elevator](https://jp5m-scripts.tebex.io/package/6642297) (free)**
+- 🧑🏻‍💻 **Custom Scripts on request**
 
 ## 📥 Installation
 Each script comes with detailed installation instructions in the repository or Tebex store description.
