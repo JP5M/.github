@@ -13,8 +13,10 @@ JP5M is a passionate **FiveM scripting organization** founded by two developers 
 ## 📦 Our Scripts
 We offer a variety of scripts, including:
 - 🛬 **[jp-refstart](https://jp5m-scripts.tebex.io/package/6640193)**
-- 🔻 **[jp-dutyblips](https://jp5m-scripts.tebex.io/package/6658156)**
-- 🛗 **[jp-elevator](https://jp5m-scripts.tebex.io/package/6642297) (free)**
+- ⚔️ **[jp-territories](https://jp5m-scripts.tebex.io/package/6788233)**
+- 💼 **[jp-multijob](https://jp5m-scripts.tebex.io/package/6742652)**
+- 🔻 **[jp-dutyblips](https://github.com/JP5M/jp-dutyblips) (free)**
+- 🛗 **[jp-elevator](https://github.com/JP5M/jp-elevator) (free)**
 - 🧑🏻‍💻 **Custom Scripts on request**
 
 ## 📥 Installation
